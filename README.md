@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Jakkarin-Promsee, You can call me mes.
-- 👀 I’m interested in full-stack developer for website and AI developer.
-- 🌱 Currently, I’m Freshman.
-- 💻 **[My Coding Journey recording since Grade 7 - Current](https://github.com/Jakkarin-Promsee/My-Coding-Journey/blob/main/README.md)**
-  - **This repository will be used to document my every finished project related to my coding journey.**
-  - **Recording since grade 7 until current. All completed projects will be summarized in this README file.**
-
+- 👋 Hi, I’m @Jakkarin-Promsee, You can call me *Mes*.
+- 👀 I’m interested in a full-stack developer for website and AI development.
+- 🌱 Currently, I’m a Freshman in the computer engineering faculty
+- 💻 **[My Coding Journey recording](https://github.com/Jakkarin-Promsee/My-Coding-Journey/blob/main/README.md)**
+  - **This repository will be used to document every finished project or my participation event that is related to my coding journey.**
+  - **Recording from grade 7 until current. All completed projects will be summarized in this README file.**
+- ⚡ Fun fact: “People cry, not because they are weak. It is because they've been strong for too long.” ― Johnny Depp
 
 <!---
 - 👋 Hi, I’m @Jakkarin-Promsee
